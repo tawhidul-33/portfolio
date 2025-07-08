@@ -3,7 +3,7 @@
 This is a responsive portfolio website built using **HTML**, **CSS**, and **Bootstrap 5**. 
 
 ## 🔥 Live Preview
-[Live Demo](https://your-live-site-link.com) <!-- (Add this if you host on GitHub Pages / Netlify) -->
+Live Demo: https://tawhidul-33.github.io/portfolio/
 
 ---
 
@@ -41,4 +41,5 @@ This is a responsive portfolio website built using **HTML**, **CSS**, and **Boot
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/tawhidul-33/portfolio.git
+
